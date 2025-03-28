@@ -164,7 +164,7 @@ const UserManagementApp = () => {
 
       const newUser = userRegistrationResponse.data;
 
-      // Update users list
+      
       setUsers(prev => [newUser, ...prev]);
 
       // Reset form
