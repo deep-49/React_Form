@@ -49,6 +49,7 @@ Run:
 ```sh
 npm install @mui/material @emotion/react @emotion/styled
 ```
+### Step 5: Install All Necessary Dependencies
 
 ## Running the Project
 Start the development server:
